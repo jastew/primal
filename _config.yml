@@ -34,11 +34,3 @@ defaults:
       education:
         - Name of Course
       photo_path: /assets/profile.png
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      type:
-        - blog
-        - transformation
