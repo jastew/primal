@@ -35,3 +35,8 @@ defaults:
       education:
         - Name of Course
       photo_path: /assets/profile.png
+  -
+    scope:
+      type: posts
+    values:
+      temp: test
