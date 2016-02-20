@@ -4,5 +4,5 @@ name: Stephen
 age: 18
 education:
   - Name of Course
-photo: /assets/profile.png
+photo_path: /assets/profile.png
 ---
