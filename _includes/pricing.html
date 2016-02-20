@@ -1,4 +1,4 @@
-<div class="pricing">
+<div class="section section--pricing">
 
   <ul class="pricing-list">
 
@@ -6,9 +6,11 @@
 
       <li class="pricing-list__item">
 
-        <div class="pricing__item">
+        <div class="pricing__item pricing {% if pricing.promote %} pricing--highlight {% endif %}">
 
-          {{ pricing.cost }}
+          <h2 class="pricing__name">{{ pricing.name }}</h2>
+          <p class="pricing__cost">&euro;{{ pricing.cost }}</p>
+          <p class="pricing__duration"><strong>Duration:</strong> {{ pricing.duration }}</p>
 
         </div>
 
