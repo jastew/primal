@@ -1,0 +1,21 @@
+<div class="pricing">
+
+  <ul class="pricing-list">
+
+    {% for pricing in site.pricing %}
+
+      <li class="pricing-list__item">
+
+        <div class="pricing__item">
+
+          {{ pricing.cost }}
+
+        </div>
+
+      </li>
+
+    {% endfor %}
+
+  </ul>
+
+</div>

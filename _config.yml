@@ -21,6 +21,7 @@ collections:
   trainers:
     output: true
     permalink: /trainers/:path/
+  pricing:
 
 defaults:
   -
