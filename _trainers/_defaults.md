@@ -2,7 +2,6 @@
 layout: trainers
 name: Your name
 age: 18
-education:
-  - 
+education: []
 photo_path: /assets/profile.png
 ---
