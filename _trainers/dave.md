@@ -2,6 +2,7 @@
 layout: trainers
 name: Dave
 age: 18
-education: []
+education: 
+  - 
 photo_path: /assets/profile.png
 ---
