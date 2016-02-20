@@ -1,7 +1,8 @@
 ---
 name: Group Training
-weeks: 0
-days_per_week: 0
-cost: 0
+weeks: 6
+days_per_week: 3
+cost: 169
 promote: false
 ---
+
