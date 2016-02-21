@@ -1,7 +1,7 @@
 ---
 layout: trainers
 name: Stephen
-age: 18
+age: 25
 education:
   - ''
 photo_path: /assets/profile.png
